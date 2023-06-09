@@ -165,11 +165,12 @@ font-style: normal;
 .section-one{
 background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
 max-width: 1440px;
+height: 600px;
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
-  padding-top: 188px;
-  padding-bottom: 188px;
+padding: 188px;
+margin: 0 auto;
 
   }
   .section-effective{
