@@ -361,7 +361,13 @@ font-style: normal;
       padding-top: 120px;
       padding-bottom: 120px;
     }
-    
+   .costumers-name{
+    font-size: 36px;
+    line-height: 1.11;
+    margin-bottom: 72px;
+    color: var(--background-color);
+   }
+
 
 
 
