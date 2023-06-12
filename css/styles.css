@@ -367,6 +367,10 @@ font-style: normal;
     margin-bottom: 72px;
     color: var(--background-color);
    }
+   .costumers-list{
+    display: flex;
+    gap: 24px;
+   }
 
 
 
