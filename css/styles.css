@@ -461,3 +461,7 @@ margin-right: 120px;
   color: var(--white-color);
   margin-bottom: 16px;
 }
+.footer-social-list{
+  display: flex;
+  gap: 16px;
+}
