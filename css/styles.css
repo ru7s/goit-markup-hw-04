@@ -446,6 +446,8 @@ font-style: normal;
 }
 
 .footer-container{
+  width: 264px;
+  margin-right: 120px;
 
 }
 .footer-item{
