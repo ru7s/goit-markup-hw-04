@@ -3,6 +3,7 @@
 --background-color:#2e2f42;
 --blu-color: #4d5ae5;
 --dark-grey:#8e8f99;
+--white-color:#FFFFFF;
 }
 .header-class{
   border-bottom: 1px solid #e7e9fc;
@@ -385,11 +386,6 @@ font-style: normal;
     justify-content: center;
     color: var(--dark-grey);
    }
-   
-
-
-
-
 
 /*Footer*/
 .logo{
@@ -446,8 +442,7 @@ font-style: normal;
 }
 
 .footer-container{
-  width: 264px;
-  margin-right: 120px;
+ 
 
 }
 .footer-item{
@@ -459,3 +454,10 @@ font-style: normal;
 margin-right: 120px;
 }
 
+.footer-social-text{
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--white-color);
+  margin-bottom: 16px;
+}
