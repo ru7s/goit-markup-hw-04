@@ -444,6 +444,11 @@ font-style: normal;
   background-color: #2e2f42;
   padding: 100px 0;
 }
+.footer-container{
+  display: flex;
+  align-items: baseline;
+}
+
 .footer-social-container{
 margin-right: 120px;
 }
