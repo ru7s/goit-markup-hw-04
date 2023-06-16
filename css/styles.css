@@ -5,6 +5,7 @@
 --dark-grey:#8e8f99;
 --white-color:#FFFFFF;
 --light-green: #31d0aa;
+--light-white:#f4f4fd;
 }
 .header-class{
   border-bottom: 1px solid #e7e9fc;
@@ -88,11 +89,8 @@ color: #404bbf;
 background-color: var(--light-green);
 }
 
-.logo-color{color:#2e2f42;
-  
+.logo-color{color:#2e2f42;  
 }
-
-
 .list-a{
   display: block;
 font-weight: 500;
@@ -146,16 +144,11 @@ display: flex;
   display: flex;
     gap: 24px;
     justify-content: center;
-
 }
-
 .header-item{
   display: flex;
   align-items: center;
 }
-
-
-
 /*address*/
 
 .address{
@@ -164,8 +157,6 @@ font-style: normal;
 
  }
 /*section1*/
-
-
 .section-one{
  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-img.jpg);
  max-width: 1440px;
@@ -187,7 +178,6 @@ font-style: normal;
     margin-right: auto;
   }
   .section-but{
-  
     background-color: #4D5AE5;
     font-family:"Roboto",sans-serif;
     font-style: normal;
@@ -231,8 +221,6 @@ font-style: normal;
     padding-top: 120px;
     padding-bottom: 120px;
   }
-
-
   .features-head{
     font-weight: 500;
       font-size: 20px;
@@ -241,7 +229,6 @@ font-style: normal;
       color: #2e2f42;
       margin-bottom: 8px;
   }
-
 .features-text{line-height: 1.5;
   letter-spacing: 0.02em; }
 
@@ -264,6 +251,7 @@ font-style: normal;
   color: #2e2f42;
   background-color: #ffffff;
 }
+
 /*section-4*/
 .social-list-link{
   width: 100%;
@@ -284,10 +272,8 @@ font-style: normal;
 
 .company-list{
   width: 40px;
-  height: 40px;
-  
+  height: 40px;  
 }
-
 .team-company{
   display: flex;
   justify-content: center;
@@ -296,8 +282,7 @@ font-style: normal;
 
 .list{
  list-style: none;
-
-  }
+}
 
 .section-format-img{
   background-color: #F4F4FD;
@@ -326,6 +311,10 @@ font-style: normal;
   padding: 32px 16px;
   
 }
+svg.team-social_icon{
+fill: var(--light-white);
+}
+
 /*--portfolio--*/
 .prof-section{
   padding-top: 96px;
