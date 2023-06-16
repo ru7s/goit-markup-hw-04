@@ -436,18 +436,18 @@ fill: var(--light-white);
   padding: 100px 0;
 }
 
-.footer-container{
- 
-margin-right: 120px;
+.footer-contanier{
+  display: flex;
+  margin-right: 120px;
 }
-.footer-item{
+.footer-item {
   display: flex;
   align-items: baseline;
 }
-
-.footer-social-container{
-margin-right: 120px;
+.footer-social-container {
+  margin-right: 120px;
 }
+
 
 .footer-social-text{
   font-weight: 500;
