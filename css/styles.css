@@ -378,6 +378,9 @@ fill: var(--light-white);
     justify-content: center;
     color: var(--dark-grey);
    }
+   svg.team-costumers_icon{
+    fill:currentColor; 
+   }
 
 /*Footer*/
 .logo{
