@@ -6,6 +6,7 @@
 --white-color:#FFFFFF;
 --light-green: #31d0aa;
 --light-white:#f4f4fd;
+--dark-blu:#404bbf;
 }
 .header-class{
   border-bottom: 1px solid #e7e9fc;
@@ -401,6 +402,10 @@ fill: var(--light-white);
     justify-content: center;
     color: var(--dark-grey);
    }
+   .costumers-link:hover{
+    border-color: var(--dark-blu);
+   }
+
    svg.team-costumers_icon{
     fill:currentColor; 
    }
