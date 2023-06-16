@@ -403,6 +403,7 @@ fill: var(--light-white);
     color: var(--dark-grey);
    }
    .costumers-link:hover{
+    border-color: var(--dark-blu);
   color: var(--dark-blu);
    }
    .costumers-link:focus{
