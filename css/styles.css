@@ -81,15 +81,6 @@ background-color: #ffffff ;}
 }
 .link{text-decoration: none;}
 
-.link:hover{
-  color:#404bbf ;
-  background-color: var(--light-green);
-}
-.link:focus{
-color: #404bbf;
-background-color: var(--light-green);
-}
-
 .logo-color{color:#2e2f42;  
 }
 .list-a{
