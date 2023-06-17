@@ -104,11 +104,11 @@ letter-spacing: 0.02em;
 color: var(--grey);
 }
 
-.list-a:hover{
-  color: #404bbf;
-}
-.list-a:focus{
-  color: #404bbf;
+.list-a:hover,
+.list-a:focus,
+.list-b:hover,
+.list-b:focus {
+  color: var(--dark-blu);
 }
 .header-menu-list{
     display: flex;
