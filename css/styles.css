@@ -255,6 +255,7 @@ font-style: normal;
   letter-spacing: 0.02em;
   font-size: 16px;
   margin-bottom: 8px;
+  text-align: center;
 }
 
 .social-list-link{
@@ -382,11 +383,16 @@ fill: var(--light-white);
       padding-bottom: 120px;
     }
    .costumers-name{
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     margin-bottom: 72px;
     color: var(--background-color);
+    text-transform: capitalize;
    }
+   
    .costumers-list{
     display: flex;
     gap: 24px;
