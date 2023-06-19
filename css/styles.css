@@ -392,7 +392,7 @@ fill: var(--light-white);
     color: var(--background-color);
     text-transform: capitalize;
    }
-   
+
    .costumers-list{
     display: flex;
     gap: 24px;
@@ -499,7 +499,7 @@ color: var(--dark-blu);
 }
 
 .footer-social-container {
-  margin-right: 120px;
+ width: 208px;
 }
 
 
