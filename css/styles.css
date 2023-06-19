@@ -81,10 +81,12 @@ background-color:var(--white-color);}
   text-decoration: none;
   margin-right: 76px;
 }
+
 .link{text-decoration: none;}
 
 .logo-color{color:var(--background-color);  
 }
+
 .list-a{
   display: block;
 font-weight: 500;
@@ -112,6 +114,7 @@ color: var(--grey);
 .list-b:focus {
   color: var(--dark-blu);
 }
+
 .header-menu-list{
     display: flex;
     gap: 40px;
@@ -125,24 +128,29 @@ display: flex;
   display: flex;
     gap: 40px;
 }
+
 .features-list{
   display: flex;
     gap: 24px;
 }
+
 .section-img-list{
   display: flex;
     gap: 24px;
     justify-content: center;
 }
+
 .section-format-list{
   display: flex;
     gap: 24px;
     justify-content: center;
 }
+
 .header-item{
   display: flex;
   align-items: center;
 }
+
 /*address*/
 
 .address{
@@ -151,6 +159,7 @@ font-style: normal;
 
  }
 /*section1*/
+
 .section-one{
  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-img.jpg);
  max-width: 1440px;
@@ -190,9 +199,11 @@ font-style: normal;
     margin-right: auto ;
     margin-top: 48px;
   }
+
   .section-but:hover{
     background-color:#404BBF ;
   }
+
     .section-but:focus{
       background-color:#404BBF ;
     }
@@ -250,6 +261,7 @@ font-style: normal;
 }
 
 /*section-4*/
+
 .position-text{
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -320,7 +332,8 @@ svg.team-social_icon{
 fill: var(--light-white);
 }
 
-/*--portfolio--*/
+ /*--portfolio--*/
+
 .portfolio-link{
   display: block;
 }
@@ -377,11 +390,13 @@ fill: var(--light-white);
   border: 1px solid #e7e9fc;
   border-top: none;
  }
-    /*section5*/
-    .costumers{
+   /*section5*/
+    
+   .costumers{
       padding-top: 120px;
       padding-bottom: 120px;
     }
+
    .costumers-name{
     text-align: center;
     font-style: normal;
@@ -502,8 +517,7 @@ color: var(--dark-blu);
  width: 208px;
 }
 
-
-.footer-social-text{
+ .footer-social-text{
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
