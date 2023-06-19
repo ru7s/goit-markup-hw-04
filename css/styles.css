@@ -506,4 +506,7 @@ border-color: var(--dark-blu);
   align-items: center;
   justify-content: center;
 }
+.footer-social-link:hover,.footer-social-link:focus{
+  background-color: #31d0aa;
+}
 
