@@ -393,12 +393,15 @@ fill: var(--light-white);
     justify-content: center;
     color: var(--dark-grey);
    }
+
    .costumers-link:hover{
     border-color: var(--dark-blu);
   color: var(--dark-blu);
    }
+
    .costumers-link:focus{
 border-color: var(--dark-blu);
+color: var(--dark-blu);
    }
 
    svg.team-costumers_icon{
